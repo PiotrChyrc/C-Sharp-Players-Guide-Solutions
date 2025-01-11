@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Repairing the Clocktower", "Repairing the Clocktower.csproj", "{482A8B17-1E43-4267-B138-308BB7F15956}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{482A8B17-1E43-4267-B138-308BB7F15956}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{482A8B17-1E43-4267-B138-308BB7F15956}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{482A8B17-1E43-4267-B138-308BB7F15956}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{482A8B17-1E43-4267-B138-308BB7F15956}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C7900720-CC0F-4AC1-86C0-15DD4396EB30}
+	EndGlobalSection
+EndGlobal
