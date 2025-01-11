@@ -1,7 +1,7 @@
-﻿Console.Write("What is the target row?");
+﻿Console.Write("What is the target row? ");
 int targetRow = Convert.ToInt32(Console.ReadLine());
 
-Console.Write("What is the target column?");
+Console.Write("What is the target column? ");
 int targetColumn = Convert.ToInt32(Console.ReadLine());
 
 Console.ForegroundColor = ConsoleColor.Green;
