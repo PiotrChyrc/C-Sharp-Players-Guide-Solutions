@@ -1,0 +1,1 @@
+This is a repository containing my solutions to the exercises in the C# Players Guide 5th Edition. Exercises will generally be uploaded when they are completed, but longer projects may be uploaded in chunks
